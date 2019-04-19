@@ -1,0 +1,17 @@
+<view>
+<cover-view class='head'>
+   HEADER
+
+</cover-view>
+
+
+<cover-view  class="box">
+  <ec-canvas id="mychart-dom-bar" canvas-id="mychart-bar" ec="{{ ec }}"></ec-canvas>
+</cover-view >
+
+<view class='foot'>
+
+  hahah
+</view>
+
+</view>
